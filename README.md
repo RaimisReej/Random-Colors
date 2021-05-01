@@ -1,0 +1,2 @@
+# Random Colors
+ JS practice
